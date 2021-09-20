@@ -1,6 +1,7 @@
 # trip-advisor
 my first python learning project
 
+```javascript
 dialogflowService.on("interrupted", transcript => {
     console.log(`Interrupted with "${transcript}"`);
     mediaStream.pause();
@@ -24,3 +25,4 @@ dialogflowService.on("interrupted", transcript => {
       dialogflowService.isInterrupted = true;
     }
   });
+  ```
